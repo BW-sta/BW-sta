@@ -29,6 +29,7 @@ Current AI application product directions include:
 - About AI Ask Know: https://www.aiasknow.com/about-ai-ask-know/
 - Founder profile: https://www.aiasknow.com/founder/
 - Product matrix article: https://www.aiasknow.com/articles/bw-ai-product-lab-ai-product-matrix/
+- Zhihu article: https://zhuanlan.zhihu.com/p/2053660119871776155
 
 ## Keywords
 
